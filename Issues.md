@@ -1,0 +1,1 @@
+Please see our [Bug Tracker](http://fiji.sc/bugzilla/).  Alternatively, you can submit bugs via _Help>Report a Bug_ in Fiji itself.

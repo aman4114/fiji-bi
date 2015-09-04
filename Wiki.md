@@ -1,0 +1,1 @@
+The Fiji Wiki is located [here](http://fiji.sc/).
